@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "6d4dd351bae52b412480",
-    "url": "/data-journalism-story/static/css/main.3555ecaf.chunk.css"
+    "revision": "dd60b810cbde8f246ec0",
+    "url": "/data-journalism-story/static/css/main.afb1f810.chunk.css"
   },
   {
-    "revision": "6d4dd351bae52b412480",
+    "revision": "dd60b810cbde8f246ec0",
     "url": "/data-journalism-story/static/js/main.14d1e870.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/data-journalism-story/static/media/image1.767a4fa7.png"
   },
   {
-    "revision": "c57189e1b6213a9e91d69a6eb31d9dd9",
+    "revision": "7152026205b4c606f304d18cbbf1d54c",
     "url": "/data-journalism-story/index.html"
   }
 ];
