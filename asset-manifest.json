@@ -1,15 +1,16 @@
 {
-  "main.css": "/data-journalism-story/static/css/main.b4665162.chunk.css",
-  "main.js": "/data-journalism-story/static/js/main.36b9f8e3.chunk.js",
-  "main.js.map": "/data-journalism-story/static/js/main.36b9f8e3.chunk.js.map",
+  "main.css": "/data-journalism-story/static/css/main.3555ecaf.chunk.css",
+  "main.js": "/data-journalism-story/static/js/main.14d1e870.chunk.js",
+  "main.js.map": "/data-journalism-story/static/js/main.14d1e870.chunk.js.map",
   "runtime~main.js": "/data-journalism-story/static/js/runtime~main.1ca7abb7.js",
   "runtime~main.js.map": "/data-journalism-story/static/js/runtime~main.1ca7abb7.js.map",
   "static/js/2.b56f4a41.chunk.js": "/data-journalism-story/static/js/2.b56f4a41.chunk.js",
   "static/js/2.b56f4a41.chunk.js.map": "/data-journalism-story/static/js/2.b56f4a41.chunk.js.map",
   "index.html": "/data-journalism-story/index.html",
-  "precache-manifest.f9b9238ce82d4a0f1ca295e2f7022cde.js": "/data-journalism-story/precache-manifest.f9b9238ce82d4a0f1ca295e2f7022cde.js",
+  "precache-manifest.3a11015aa83e1d23cfb346d028bf525f.js": "/data-journalism-story/precache-manifest.3a11015aa83e1d23cfb346d028bf525f.js",
   "service-worker.js": "/data-journalism-story/service-worker.js",
-  "static/css/main.b4665162.chunk.css.map": "/data-journalism-story/static/css/main.b4665162.chunk.css.map",
+  "static/css/main.3555ecaf.chunk.css.map": "/data-journalism-story/static/css/main.3555ecaf.chunk.css.map",
+  "static/media/image1.png": "/data-journalism-story/static/media/image1.767a4fa7.png",
   "static/media/liam.png": "/data-journalism-story/static/media/liam.a54b8fc9.png",
   "static/media/logo.svg": "/data-journalism-story/static/media/logo.5d5d9eef.svg"
 }
