@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/data-journalism-story/precache-manifest.8347c7be22f9b80eafb7363b29a8e1f4.js"
+  "/data-journalism-story/precache-manifest.f9b9238ce82d4a0f1ca295e2f7022cde.js"
 );
 
 workbox.clientsClaim();
