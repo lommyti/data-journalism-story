@@ -32,6 +32,8 @@
   line-height: 80px;
   padding: 10px;
   background:white;
+  transition: .7s ease-in-out;
+
 }
 
 .blackline{
@@ -55,6 +57,7 @@
   line-height: 80px;
   padding: 10px;
   background:white;
+  transition: .7s ease-in-out;
 
 }
 
