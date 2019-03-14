@@ -23,6 +23,88 @@
   color: #61dafb;
 }
 
+.redbar{
+  height: 80px;
+  display: inline-block;
+  background: rgb(142, 30, 40);
+  text-align: left;
+  color: white;
+  line-height: 80px;
+  padding: 10px;
+  background:white;
+}
+
+.blackline{
+  width: 3px;
+  height: 80px;
+  display: inline-block;
+  background: white;
+  color: white;
+  line-height: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+
+}
+.greenbar{
+  height: 80px;
+  display: inline-block;
+  background: rgb(64, 104, 55);
+  text-align: right;
+  color: white;
+  line-height: 80px;
+  padding: 10px;
+  background:white;
+
+}
+
+.p-bottom-10{
+  padding-bottom:10%;
+}
+
+.redbar-25{
+  width: 93px;
+  background: rgb(142, 30, 40);
+
+}
+
+.greenbar-300{
+  width: 557px;
+  background: rgb(64, 104, 55);
+
+}
+
+.redbar-50{
+  width: 100px;
+  background: rgb(142, 30, 40);
+
+}
+
+.greenbar-275{
+  background: rgb(64, 104, 55);
+
+  width: 550px;
+}
+
+.redbar-151{
+  width: 302px;
+  background: rgb(142, 30, 40);
+}
+
+.greenbar-174{
+  width: 348px;
+  background: rgb(64, 104, 55);
+}
+
+.text{
+  margin-top: 15px;
+}
+
+.liam{
+  width: 60%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
