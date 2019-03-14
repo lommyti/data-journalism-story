@@ -90,7 +90,7 @@ renderBars(){
   else if (this.state.redBarLength === 151) {
     classNameRed = 'redbar redbar-151';
     classNameGreen = 'greenbar greenbar-174'
-    this.state.text = "Between 2015 and 2030, 11,600,000 jobs were lost and 13,400,000 jobs were gained. Source: McKinsey."
+    this.state.text = "Between 2015 and 2030, 11,600,000 jobs will be lost and 13,400,000 jobs will be gained. Source: McKinsey."
 
   }  return (     <div>
        <div className={classNameRed}>{this.state.redNumber}</div>
