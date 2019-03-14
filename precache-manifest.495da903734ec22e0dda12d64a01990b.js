@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/data-journalism-story/static/media/image1.767a4fa7.png"
   },
   {
-    "revision": "7152026205b4c606f304d18cbbf1d54c",
+    "revision": "1022c85787efa2d0509e9c16e54fddab",
     "url": "/data-journalism-story/index.html"
   }
 ];
